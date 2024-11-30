@@ -1,0 +1,52 @@
+body{
+    padding: 0px 15px 0px 15px;
+    background: grey
+      }
+
+      h1{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        color: white;
+        text-align:center;
+        font-weight:bolder;
+        font-size:35;
+        background:black;
+        width: 300px;
+        padding:10px;
+        border-left: 15px solid red;
+    }
+    .colorkitbg{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width: 800px;
+        height: 400px;
+        background: #fff;
+    }
+    .colorlist li{
+    display: inline-block;
+    margin-top: 50px;
+    border:1px solid gray;
+    padding:10px;
+    border-radius: 10px;
+    }
+    .colorlist{
+        text-align: center;  
+    }
+    .red:hover{
+        background: red;
+        border: 1px solid red;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        border-radius: 100px;
+    }
+    .yellow:hover{
+        background:yellow;
+        border: 1px solid yellow;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        border-radius: 100px;
+    }
